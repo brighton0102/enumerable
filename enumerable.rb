@@ -15,4 +15,3 @@ module MyEnumerable
     result
   end
 end
-1
