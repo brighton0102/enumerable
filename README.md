@@ -1,8 +1,3 @@
-<div align="center">
-
-  <h1><b>Enumerable</b></h1>
-
-</div>
 
 <!-- TABLE OF CONTENTS -->
 
